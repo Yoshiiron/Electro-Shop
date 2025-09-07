@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:regular,bold,italic&subset=latin,latin-ext');
+
+.body {
+    margin: 20px;
+    text-align: center;
+    font-family: "Montserrat", sans-serif;
+}

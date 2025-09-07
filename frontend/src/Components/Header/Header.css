@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:regular,bold,italic&subset=latin,latin-ext');
+
+.header-container {
+    background-color: #f8f9fa;
+    padding: 10px 20px;
+    background: #4a475c;
+    border-bottom-left-radius: 40px 40px;
+    border-bottom-right-radius: 40px 40px;
+}
+
+.nav-links a {
+    padding: 0 15px;
+    font-family: "Montserrat", sans-serif;
+    text-decoration: none;
+    color: #fffefe;
+    font-weight: bold;
+    margin-right: 15px;
+}
+
+.nav-links a:hover {
+    color: #bdbdbd;
+    text-decoration: none;
+}
